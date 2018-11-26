@@ -12,6 +12,9 @@ syntax: glob
 lib_managed
 project/boot
 project/target
+project/.boot/
+project/.ivy/
+
 target
 logs
 
